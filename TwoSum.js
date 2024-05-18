@@ -22,4 +22,4 @@ var twoSum = function(nums, target) {
     return null; // If no solution is found
 };
 
-console.log(twoSum([1, 2, 3, 4, 5], 3));
+console.log(twoSum([1, 2, 3, 4, 5], 9));
